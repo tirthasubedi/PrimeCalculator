@@ -1,3 +1,10 @@
+#################################################################################################################################
+#Creator: Tirtha Subedi
+#Purpose: Application to Calculate PrimeNumber of any Given value
+#Description: Application is build using PyQt5 [to excute on any system] and Algorithm to check whether given number
+#             is prime.
+##################################################################################################################################
+##################################################################################################################################
 import sys
 from PyQt5.QtWidgets import QMainWindow, QApplication, QWidget, QPushButton, QAction, QLineEdit, QMessageBox
 from PyQt5.QtCore import pyqtSlot
